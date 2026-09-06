@@ -4,6 +4,8 @@ KotaKitaHub adalah sebuah platform digital yang menjadi pusat informasi, layanan
 
 Website ini berfungsi untuk menghubungkan masyarakat, komunitas, dan pengelola kota sehingga masyarakat tidak hanya mendapatkan informasi mengenai kondisi kotanya, tetapi juga dapat berpartisipasi langsung dalam menjaga dan mengembangkan lingkungan tempat mereka tinggal.
 
+*Sebagai contoh penerapan, kami mengambil kota cimahi.
+
 > Proyek eksperimental
 
 ## Fitur
