@@ -118,7 +118,7 @@
 				<input
 					type="tel"
 					bind:value={phone}
-					placeholder="+62 812 ¦"
+					placeholder="+62 812.."
 					required
 					disabled={otpSent}
 					class="w-full rounded-lg border border-slate-300 py-2.5 pl-9 pr-3 text-sm focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 disabled:bg-slate-50"
