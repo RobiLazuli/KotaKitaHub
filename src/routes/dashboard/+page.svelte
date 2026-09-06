@@ -69,7 +69,7 @@
 	<div class="flex justify-center py-24"><Spinner size={30} /></div>
 {:else if !$auth.user}
 	<div class="mx-auto max-w-md px-4 py-20 text-center">
-		<p class="text-slate-500">Anda diarahkan ke halaman masukâ€¦</p>
+		<p class="text-slate-500">Anda diarahkan ke halaman masuk</p>
 	</div>
 {:else}
 	<div class="mx-auto max-w-7xl px-4 py-10 sm:px-6">
@@ -136,7 +136,7 @@
 					<div>
 						<label for="pf-district" class="mb-1 block text-xs font-medium text-slate-600">Kecamatan</label>
 						<select id="pf-district" bind:value={district} class="w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20">
-							<option value="">Pilih kecamatanâ€¦</option>
+							<option value="">Pilih kecamatan</option>
 							{#each districts as d (d)}<option value={d}>{d}</option>{/each}
 						</select>
 					</div>
@@ -150,7 +150,7 @@
 					{/if}
 
 					<button type="submit" disabled={saving} class="poly-btn flex w-full items-center justify-center gap-2 bg-primary px-4 py-2 text-sm font-semibold text-white hover:bg-primary-dark disabled:opacity-60">
-						<Save class="h-4 w-4" /> {saving ? 'Menyimpanâ€¦' : 'Simpan Profil'}
+						<Save class="h-4 w-4" /> {saving ? 'Menyimpan' : 'Simpan Profil'}
 					</button>
 				</form>
 			</section>
