@@ -1,8 +1,3 @@
-Here is the cleaned-up component with all OTP logic, state, and UI elements removed.
-
-I updated the mode switcher to use a 2-column grid (`grid-cols-2`) and simplified the form inputs since you now only need email and password (plus the name field for registration).
-
-```svelte
 <script lang="ts">
 	import { goto } from '$app/navigation';
 	import Spinner from '$lib/components/common/Spinner.svelte';
