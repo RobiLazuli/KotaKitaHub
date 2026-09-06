@@ -19,13 +19,13 @@
 </script>
 
 <svelte:head>
-	<title>Peta Kota â€” KotaKitaHub</title>
+	<title>Peta Kota KotaKitaHub</title>
 </svelte:head>
 
 <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
 	<div class="flex flex-wrap items-end justify-between gap-4">
 		<div>
-			<h1 class="text-2xl font-bold text-slate-900 sm:text-3xl">Peta Kota Live â€” Kota Cimahi</h1>
+			<h1 class="text-2xl font-bold text-slate-900 sm:text-3xl">Peta Kota Kota Cimahi</h1>
 			<p class="mt-1 text-slate-500">Insiden warga, fasilitas kota, dan simulasi arus lalu lintas.</p>
 		</div>
 	</div>
