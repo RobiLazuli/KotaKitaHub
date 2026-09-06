@@ -1,6 +1,8 @@
 # KotaKitaHub - Website Layanan Masyarakat
 
-Portal web **"Kota dan Komunitas Berkelanjutan" (SDGs 11)** untuk Kota Cimahi: jembatan antara warga dan pemerintah daerah untuk pelaporan masalah kota, pemantauan layanan publik, peta interaktif, dan asisten virtual.
+KotaKitaHub adalah sebuah platform digital yang menjadi pusat informasi, layanan publik, lingkungan, mobilitas, dan komunitas dalam satu tempat.
+
+Website ini berfungsi untuk menghubungkan masyarakat, komunitas, dan pengelola kota sehingga masyarakat tidak hanya mendapatkan informasi mengenai kondisi kotanya, tetapi juga dapat berpartisipasi langsung dalam menjaga dan mengembangkan lingkungan tempat mereka tinggal.
 
 > Proyek eksperimental
 
