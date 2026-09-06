@@ -90,3 +90,6 @@ src/
 ├── routes/             # / , /about, /auth, /dashboard, /map, /reports[/new|/feedback]
 └── supabase/schema.sql # Skema DB + RLS + seed
 ```
+
+## Contact 
+Apabila ingin mengembangkan project ini lebih jauh, Bisa contact kami pada email (adelardmikaeel10@gmail.com / agustiannurdiansyah02222@gmail.com / robya1529@gmail.com)
