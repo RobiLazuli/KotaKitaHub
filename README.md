@@ -1,8 +1,8 @@
-# Kota Cimahi Berkelanjutan — Smart City Portal
+# KotaKitaHub - Website Layanan Masyarakat
 
 Portal web **"Kota dan Komunitas Berkelanjutan" (SDGs 11)** untuk Kota Cimahi: jembatan antara warga dan pemerintah daerah untuk pelaporan masalah kota, pemantauan layanan publik, peta interaktif, dan asisten virtual.
 
-> Proyek eksperimental — bukan situs resmi Pemerintah Kota Cimahi.
+> Proyek eksperimental
 
 ## Fitur
 
