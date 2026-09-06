@@ -1,6 +1,6 @@
 # KotaKitaHub - Website Layanan Masyarakat
 
-KotaKitaHub adalah sebuah platform digital yang menjadi pusat informasi, layanan publik, lingkungan, mobilitas, dan komunitas dalam satu tempat.
+KotaKitaHub adalah sebuah platform digital yang menjadi pusat informasi, layanan publik, lingkungan, mobilitas, dan komunitas dalam satu tempat. Terdapat fitur seperti Live Report Map, Widget informasi cuaca dan kalender, Lapor Kuy! (Form lapor kota), dan Chat Helper
 
 Website ini berfungsi untuk menghubungkan masyarakat, komunitas, dan pengelola kota sehingga masyarakat tidak hanya mendapatkan informasi mengenai kondisi kotanya, tetapi juga dapat berpartisipasi langsung dalam menjaga dan mengembangkan lingkungan tempat mereka tinggal.
 
