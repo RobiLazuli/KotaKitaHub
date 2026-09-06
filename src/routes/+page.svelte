@@ -69,7 +69,7 @@
 	<div class="relative mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:py-28">
 		<div class="max-w-2xl">
 			<span class="inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-xs font-medium shadow-inner ring-1 ring-white/30 backdrop-blur">
-				<Sparkles class="h-3.5 w-3.5" /> KotaKitaHub · Cabang Kota Cimahi · SDGs 11
+				<Sparkles class="h-3.5 w-3.5" /> KotaKitaHub · Cabang Kota Cimahi
 			</span>
 			<h1 class="mt-5 text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl">
 				Satu Kota,<br />Satu Aplikasi,<br />Semua Terhubung
